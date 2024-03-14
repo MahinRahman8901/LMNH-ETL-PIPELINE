@@ -1,0 +1,7 @@
+pytest
+pylint
+python-dotenv
+psycopg2
+pandas
+boto3
+confluent_kafka
